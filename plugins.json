@@ -3,7 +3,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
-        "fileSize": 11420,
+        "fileSize": 11361,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -24,8 +24,8 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
-        "fileSize": 12861,
-        "status": 0,
+        "fileSize": 13203,
+        "status": 1,
         "language": "vi",
         "authors": [
             "anhdadendaden"
@@ -82,27 +82,6 @@
         "internalName": "MotchillProvider",
         "url": "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/MotchillProvider.cs3",
         "name": "MotchillProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
-        "fileSize": 13876,
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "anhdadendaden"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "NguonCProvider",
-        "url": "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/NguonCProvider.cs3",
-        "name": "NguonCProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
