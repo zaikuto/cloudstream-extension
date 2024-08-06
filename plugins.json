@@ -1,6 +1,6 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
         "fileSize": 11361,
@@ -10,10 +10,7 @@
             "anhdadendaden"
         ],
         "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
+            "Anime"
         ],
         "version": 1,
         "internalName": "AnimeHayProvider",
@@ -21,7 +18,7 @@
         "name": "AnimeHayProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hhpanda.tube&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
         "fileSize": 13164,
@@ -31,10 +28,7 @@
             "anhdadendaden"
         ],
         "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
+            "Anime"
         ],
         "version": 1,
         "internalName": "HHPandaProvider",
@@ -42,10 +36,10 @@
         "name": "HHPandaProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
+        "iconUrl": "https://kkphim.vip/template/kkphim/static/img/favicon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
-        "fileSize": 15247,
+        "fileSize": 15165,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -63,31 +57,10 @@
         "name": "KKPhimProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=motchilltv.us&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
-        "fileSize": 13200,
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "anhdadendaden"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "MotchillProvider",
-        "url": "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/MotchillProvider.cs3",
-        "name": "MotchillProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
-        "fileSize": 15074,
+        "fileSize": 13463,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -100,9 +73,72 @@
             "Movie"
         ],
         "version": 2,
+        "internalName": "MotchillProvider",
+        "url": "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/MotchillProvider.cs3",
+        "name": "MotchillProvider"
+    },
+    {
+        "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
+        "fileSize": 14909,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "NguonCProvider",
+        "url": "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/NguonCProvider.cs3",
+        "name": "NguonCProvider"
+    },
+    {
+        "iconUrl": "https://ophim16.cc/icon_ophim.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
+        "fileSize": 15156,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
         "internalName": "OPhimProvider",
         "url": "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/OPhimProvider.cs3",
         "name": "OPhimProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
+        "fileSize": 11565,
+        "status": 0,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PhimLongTiengProvider",
+        "url": "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/PhimLongTiengProvider.cs3",
+        "name": "PhimLongTiengProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
@@ -124,5 +160,23 @@
         "internalName": "PhimmoichillProvider",
         "url": "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/PhimmoichillProvider.cs3",
         "name": "PhimmoichillProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.mobi&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
+        "fileSize": 11029,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "VlxxProvider",
+        "url": "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/VlxxProvider.cs3",
+        "name": "VlxxProvider"
     }
 ]
