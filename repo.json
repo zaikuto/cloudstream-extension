@@ -3,6 +3,6 @@
     "description": "Vietnamese Extension",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/plugins.json"
+      "https://raw.githubusercontent.com/zaikuto/cloudstream-extension/main/plugins.json"
     ]
 }
