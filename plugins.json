@@ -2,7 +2,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
+        "repositoryUrl": "https://github.com/zaikuto/cloudstream-extension",
         "fileSize": 11361,
         "status": 1,
         "language": "vi",
@@ -14,13 +14,13 @@
         ],
         "version": 1,
         "internalName": "AnimeHayProvider",
-        "url": "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/AnimeHayProvider.cs3",
+        "url": "https://raw.githubusercontent.com/zaikuto/cloudstream-extension/main/AnimeHayProvider.cs3",
         "name": "AnimeHayProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhpanda.tube&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
+        "repositoryUrl": "https://github.com/zaikuto/cloudstream-extension",
         "fileSize": 13164,
         "status": 1,
         "language": "vi",
@@ -32,13 +32,13 @@
         ],
         "version": 1,
         "internalName": "HHPandaProvider",
-        "url": "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/HHPandaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/zaikuto/cloudstream-extension/main/HHPandaProvider.cs3",
         "name": "HHPandaProvider"
     },
     {
         "iconUrl": "https://kkphim.vip/template/kkphim/static/img/favicon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
+        "repositoryUrl": "https://github.com/zaikuto/cloudstream-extension",
         "fileSize": 15165,
         "status": 1,
         "language": "vi",
@@ -53,13 +53,13 @@
         ],
         "version": 1,
         "internalName": "KKPhimProvider",
-        "url": "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/KKPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/zaikuto/cloudstream-extension/main/KKPhimProvider.cs3",
         "name": "KKPhimProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=motchilltv.us&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
+        "repositoryUrl": "https://github.com/zaikuto/cloudstream-extension",
         "fileSize": 13463,
         "status": 1,
         "language": "vi",
@@ -74,13 +74,13 @@
         ],
         "version": 2,
         "internalName": "MotchillProvider",
-        "url": "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/MotchillProvider.cs3",
+        "url": "https://raw.githubusercontent.com/zaikuto/cloudstream-extension/main/MotchillProvider.cs3",
         "name": "MotchillProvider"
     },
     {
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
+        "repositoryUrl": "https://github.com/zaikuto/cloudstream-extension",
         "fileSize": 14909,
         "status": 1,
         "language": "vi",
@@ -95,13 +95,13 @@
         ],
         "version": 2,
         "internalName": "NguonCProvider",
-        "url": "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/NguonCProvider.cs3",
+        "url": "https://raw.githubusercontent.com/zaikuto/cloudstream-extension/main/NguonCProvider.cs3",
         "name": "NguonCProvider"
     },
     {
         "iconUrl": "https://ophim16.cc/icon_ophim.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
+        "repositoryUrl": "https://github.com/zaikuto/cloudstream-extension",
         "fileSize": 15156,
         "status": 1,
         "language": "vi",
@@ -116,13 +116,13 @@
         ],
         "version": 3,
         "internalName": "OPhimProvider",
-        "url": "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/OPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/zaikuto/cloudstream-extension/main/OPhimProvider.cs3",
         "name": "OPhimProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
+        "repositoryUrl": "https://github.com/zaikuto/cloudstream-extension",
         "fileSize": 11565,
         "status": 0,
         "language": "vi",
@@ -137,13 +137,13 @@
         ],
         "version": 1,
         "internalName": "PhimLongTiengProvider",
-        "url": "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/PhimLongTiengProvider.cs3",
+        "url": "https://raw.githubusercontent.com/zaikuto/cloudstream-extension/main/PhimLongTiengProvider.cs3",
         "name": "PhimLongTiengProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
+        "repositoryUrl": "https://github.com/zaikuto/cloudstream-extension",
         "fileSize": 15054,
         "status": 1,
         "language": "vi",
@@ -158,25 +158,7 @@
         ],
         "version": 1,
         "internalName": "PhimmoichillProvider",
-        "url": "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/PhimmoichillProvider.cs3",
+        "url": "https://raw.githubusercontent.com/zaikuto/cloudstream-extension/main/PhimmoichillProvider.cs3",
         "name": "PhimmoichillProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.mobi&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Datj0000/cloudstream-extension",
-        "fileSize": 11029,
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "anhdadendaden"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 1,
-        "internalName": "VlxxProvider",
-        "url": "https://raw.githubusercontent.com/Datj0000/cloudstream-extension/main/VlxxProvider.cs3",
-        "name": "VlxxProvider"
     }
 ]
