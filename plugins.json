@@ -160,5 +160,23 @@
         "internalName": "PhimmoichillProvider",
         "url": "https://raw.githubusercontent.com/zaikuto/cloudstream-extension/main/PhimmoichillProvider.cs3",
         "name": "PhimmoichillProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/zaikuto/cloudstream-extension",
+        "fileSize": 9087,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Blue"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "LiveTVProvider",
+        "description": "Live TV",
+        "url": "https://raw.githubusercontent.com/zaikuto/cloudstream-extension/main/LiveTVProvider.cs3",
+        "name": "LiveTVProvider"
     }
 ]
