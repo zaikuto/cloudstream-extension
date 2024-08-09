@@ -3,6 +3,6 @@
     "description": "Vietnamese Extension",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/tuan041/bongngo-cs3-extension/builds-5/plugins.json"
+      "https://raw.githubusercontent.com/tuan041/bongngo-cs3-extension/builds-1/plugins.json"
     ]
 }
